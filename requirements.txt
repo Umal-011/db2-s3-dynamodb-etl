@@ -1,0 +1,4 @@
+ibm-db
+boto3
+pandas
+
